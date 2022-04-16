@@ -1,0 +1,48 @@
+/* Navigation */
+
+/* .navContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+.navContainer h1 {
+    margin: 0;
+
+    font-family: 'Playfair Display SC', serif;
+    font-size: 40px;
+}
+
+.navContainer img {
+    width: 24px;
+    height: 24px;
+}
+
+nav {
+    display: flex;
+	flex-direction: row;
+
+    align-items: center;
+    justify-content: space-between;
+
+    width: 100%;
+
+    margin: 0 auto;
+	padding: 0 20px;
+}
+
+nav ul li {
+    justify-self: center;
+    display: inline;
+    padding: 0 16px;
+}
+
+nav ul li a {
+    color: #096190;
+}
+
+.mobile {
+    display: none;
+}
+
+/* End Navigation */

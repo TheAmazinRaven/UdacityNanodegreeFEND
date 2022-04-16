@@ -1,0 +1,102 @@
+/* Layout */
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 100px auto 100px;
+
+    height: 100vh;
+    width: 70%;
+
+    /* padding: 15px; */
+    margin: 0 auto;
+}
+
+header {
+    background-color: #F9BBCD;
+    grid-column-start: span 3;
+
+    line-height: 100px;
+}
+
+main {
+    background-color: #FCDDE6;
+    grid-column-start: span 2;
+
+    /* display: grid;
+    justify-items: center;
+    align-items: center; */
+
+    padding-right: 1em;
+    padding-left: 1em;
+}
+
+.meta {
+    font-size: 12px;
+}
+
+.card {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+
+    border: 1px solid #C795A4;
+    width: 95%;
+
+    margin: 10px;
+    padding: 15px;
+
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.avi {
+    float: left;
+
+    border-radius: 80%;
+    width: 100px;
+    height: 100px;
+
+    padding-right: 1em;
+    padding-left: 1em;
+}
+
+.bio {
+    font-size: 14px;
+}
+
+aside {
+    background-color: #C795A4;
+    grid-column-start: span 1;
+
+    padding-right: 1em;
+    padding-left: 1em;
+}
+
+aside h1, aside h2 {
+    color: #fffffc;
+}
+
+.about {
+    background-color: #FCDDE6;
+
+    font-size: 14px;
+
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+aside .archives, .elsewhere, .subscribe {
+    margin-top: 64px;
+}
+
+footer {
+    background-color: #F9BBCD;
+    grid-column-start: span 3;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+}
+
+/* End Layout */
