@@ -27,3 +27,12 @@ var celsius = 12;
 var fahrenheit = (celsius * 1.8 + 32);/* convert celsius to fahrenheit here */
 
 console.log(fahrenheit);
+
+var my_string = "a";
+var ASCII_value = my_string.charCodeAt(0);
+console.log(ASCII_value);
+
+var my_string2 = "Udacity";
+for (var i = 0; i < my_string2.length; i++) {
+    console.log(my_string2.charCodeAt(i));
+}

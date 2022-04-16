@@ -1,15 +1,10 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
 
+## Udacity Front End Nanodegree
 
-Hi there! Welcome to AWS Cloud9!
+I began this Nanodegree sometime in January as I was lucky enough to be a scholarship recipient of [OneTen](https://oneten.org/) and [BlacksInTech](https://www.blacksintechnology.net/).
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+I wanted to document my journey as I learn Front End Development fundamentals while also dipping my toes in the cloud.
 
-Happy coding!
-# UdacityNanodegreeFEND
+(Setting up this environment was so complicated but that's another story for another day, lol.)
+
+Anyway, since I have this set up now, I might try to log my progress here.
