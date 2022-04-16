@@ -8,3 +8,9 @@ I wanted to document my journey as I learn Front End Development fundamentals wh
 (Setting up this environment was so complicated but that's another story for another day, lol.)
 
 Anyway, since I have this set up now, I might try to log my progress here.
+
+
+---
+
+
+4.16.22 Need to review implicit type coercion and strict equality.
