@@ -3,6 +3,7 @@
         "@saveall": true
     },
     "extensions": {
+        "@git.autofetch": true,
         "@json.schemas": []
     },
     "instance": {

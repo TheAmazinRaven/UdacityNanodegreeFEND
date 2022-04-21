@@ -16,3 +16,7 @@ Anyway, since I have this set up now, I might try to log my progress here.
 4.16.22 Need to review implicit type coercion and strict equality.
 
 4.17.22 Reoredered File Structure and began learning about conditionals.
+
+4.20.22 Need help figuring out the logic to the Murder Mystery quiz.
+
+4.21.22 Still not understanding logic behind Murder Mystery quiz. Will proceed forward with course.

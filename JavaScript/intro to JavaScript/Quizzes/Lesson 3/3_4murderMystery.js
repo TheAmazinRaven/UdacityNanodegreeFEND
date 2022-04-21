@@ -1,3 +1,5 @@
+// THIS ENTIRE THING IS WRONG; NEED HELP/TUTORING.
+
 /*
  * Programming Quiz: Murder Mystery (3-4)
  */
@@ -19,19 +21,19 @@
 // Change the value of `room` and `suspect` to test your code
 
 // A room can be either of - dining room, gallery, ballroom, or billiards room
-var room = "billiards room";
+var room = "ballroom";
 
 // A suspect can be either of - Mr. Parkes, Ms. Van Cleve, Mrs. Sparr, or Mr. Kalehoff
 // Test your code by giving matching as well as unmatching names of the suspect
-var suspect = "Mr. Parkes";
+var suspect = "Mrs. Sparr";
 
 /* ****************************************** */
 
 /* IMPLEMENTATION LOGIC*/
 
 // Initial values
-var weapon = "poison";
-var solved = true;
+var weapon = "pool stick";
+var solved = false;
 
 /*
 * To help solve this mystery, write a combination of conditional statements that:
@@ -40,19 +42,48 @@ var solved = true;
 */
 if (room === "ballroom") {
     weapon = "poison";
-    if (weapon === "poison") {
-        suspect = "Mr. Kalehoff";
+        if (weapon === "poison") {
+            suspect = "Mr. Kalehoff";
+            if (suspect === "Mr. Kalehoff" && room === "ballroom") {
+                solved = true;
+                else {
+                    solved = false;
+                }
+            }
+        }
+else if
+        (room === "gallery") {
+            weapon = "trophy";
+                if (weapon === "trophy") {
+                    suspect = "Ms. Van Cleve";
+                    if (suspect === "Ms. Van Cleve" && room === "gallery") {
+                        solved = true;
+                    }
+                }
+            }
+else if
+    (room === "billiards") {
+        weapon = "pool stick";
+        if (weapon === "pool stick") {
+            suspect = "Mrs. Sparr"; 
+            if (suspect === "Mrs. Sparr" && room === "billiards") {
+                solved = true;
+            }
+        }
     }
-    else solved = true;
-    
-    
-    
-} else if (room === "gallery") {
-    weapon = "trophy";
-} else if (room === "billiards") {
-    weapon = "pool stick";
-} else {
-    weapon = "knife";
+else if
+    (room === "dining room") {
+        weapon = "knife";
+        if (weapon === "knife") {
+            suspect = "Mr. Parkes";
+            if (suspect === "Mr. Parkes" && room === "dining room") {
+                solved = true;
+            }
+        }
+    }
+}
+else {
+    console.log("nothing")
 }
 /* ****************************************** */
 // The code below will run only when `solved` is true
