@@ -21,18 +21,18 @@
 // Change the value of `room` and `suspect` to test your code
 
 // A room can be either of - dining room, gallery, ballroom, or billiards room
-var room = "ballroom";
+var room = "gallery";
 
 // A suspect can be either of - Mr. Parkes, Ms. Van Cleve, Mrs. Sparr, or Mr. Kalehoff
 // Test your code by giving matching as well as unmatching names of the suspect
-var suspect = "Mrs. Sparr";
+var suspect = "Mr. Parkes";
 
 /* ****************************************** */
 
 /* IMPLEMENTATION LOGIC*/
 
 // Initial values
-var weapon = "pool stick";
+var weapon = "trophy";
 var solved = false;
 
 /*
@@ -41,31 +41,23 @@ var solved = false;
 * 2. sets the value of solved to true if the value of room matches the suspect's room
 */
 if (room === "ballroom") {
-    weapon = "poison";
         if (weapon === "poison") {
-            suspect = "Mr. Kalehoff";
             if (suspect === "Mr. Kalehoff" && room === "ballroom") {
                 solved = true;
-                else {
-                    solved = false;
                 }
             }
         }
 else if
         (room === "gallery") {
-            weapon = "trophy";
                 if (weapon === "trophy") {
-                    suspect = "Ms. Van Cleve";
                     if (suspect === "Ms. Van Cleve" && room === "gallery") {
                         solved = true;
                     }
                 }
             }
 else if
-    (room === "billiards") {
-        weapon = "pool stick";
+    (room === "billiards room") {
         if (weapon === "pool stick") {
-            suspect = "Mrs. Sparr"; 
             if (suspect === "Mrs. Sparr" && room === "billiards") {
                 solved = true;
             }
@@ -73,21 +65,18 @@ else if
     }
 else if
     (room === "dining room") {
-        weapon = "knife";
         if (weapon === "knife") {
-            suspect = "Mr. Parkes";
             if (suspect === "Mr. Parkes" && room === "dining room") {
                 solved = true;
             }
         }
     }
-}
-else {
-    console.log("nothing")
-}
 /* ****************************************** */
 // The code below will run only when `solved` is true
 if (solved) {
 	console.log(suspect + " did it in the " + room + " with the " + weapon + "!");
+}
+else {
+    console.log("Unsolved.")
 }
 /* ****************************************** */
