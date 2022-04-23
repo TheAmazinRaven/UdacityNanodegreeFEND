@@ -20,3 +20,7 @@ Anyway, since I have this set up now, I might try to log my progress here.
 4.20.22 Need help figuring out the logic to the Murder Mystery quiz.
 
 4.21.22 Still not understanding logic behind Murder Mystery quiz. Will proceed forward with course.
+
+4.21.22.2 Got some help, the code works but the code checker says it's wrong. Smh.
+
+4.22.22 Need help with conditionals. I might have to create a JavaScript Self Study repo because I am obviously not understanding something.
