@@ -27,3 +27,12 @@ var adult = true;
 var preorder = true;
 
 console.log("It costs $" + (adult ? "40.00" : "20.00") + " to attend the concert. Pick up your tickets at the " + (preorder ? "will call" : "gate") + ".");
+
+// My wonderful example that took 2 hours to develop but I am so proud of
+
+var bisexual = true;
+var isGirl = true;
+
+var isQueer = (bisexual && isGirl) ? "Is big gay" : "Is not big gay";
+
+console.log(isQueer);

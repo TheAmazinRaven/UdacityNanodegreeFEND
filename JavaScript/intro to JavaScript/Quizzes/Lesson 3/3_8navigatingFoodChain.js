@@ -33,8 +33,9 @@ var eatsAnimals = true;
  * - (false, false, undefined)
  */
 
-var category = herbivore ? "Is an herbivore." : "Is not an herbivore.";
+var category = (eatsPlants && !eatsAnimals) ? 'Is an herbivore' : 'Is not an herbivore';
 
 // var category = eatsPlants ? (eatsAnimals ? "omnivore" : "herbivore") : (eatsAnimals ? "carnivore" : "undefined");
 
 console.log(category);
+
