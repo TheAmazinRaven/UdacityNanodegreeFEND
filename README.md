@@ -24,3 +24,5 @@ Anyway, since I have this set up now, I might try to log my progress here.
 4.21.22.2 Got some help, the code works but the code checker says it's wrong. Smh.
 
 4.22.22 Need help with conditionals. I might have to create a JavaScript Self Study repo because I am obviously not understanding something.
+
+4.25.22 Working on the Ice Cream Quiz. Went over Advanced Conditionals, Truthy and Falsy, as well as Ternary Operators. I am so confused.
