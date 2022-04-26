@@ -27,4 +27,4 @@ Anyway, since I have this set up now, I might try to log my progress here.
 
 4.25.22 Working on the Ice Cream Quiz. Went over Advanced Conditionals, Truthy and Falsy, as well as Ternary Operators. I am so confused.
 
-4.25.22 Testing config.
+4.25.22 Testing config. Again.
