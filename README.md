@@ -29,4 +29,4 @@ Anyway, since I have this set up now, I might try to log my progress here.
 
 4.25.22.2 Testing config. Again.
 
-4.25.22.3 Worked on Ternary Operators & Switch Statements. Finished Lesson 3.
+4.25.22.3 Worked on Ternary Operators & Switch Statements. Finished Lesson 3. Setup files/environment for Lesson 4.
