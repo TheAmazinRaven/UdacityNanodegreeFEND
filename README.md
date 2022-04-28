@@ -15,7 +15,7 @@ Anyway, since I have this set up now, I might try to log my progress here.
 
 4.16.22 Need to review implicit type coercion and strict equality.
 
-4.17.22 Reoredered File Structure and began learning about conditionals.
+4.17.22 Reordered File Structure and began learning about conditionals.
 
 4.20.22 Need help figuring out the logic to the Murder Mystery quiz.
 
@@ -32,3 +32,5 @@ Anyway, since I have this set up now, I might try to log my progress here.
 4.25.22.3 Worked on Ternary Operators & Switch Statements. Finished Lesson 3. Setup files/environment for Lesson 4.\
 
 4.26.22 Worked on While Loops & JuliaJames quiz.
+
+4.26.22 Continued working on While Loops, did 99 Bottles of Juice & Countdown Liftoff Quiz.
