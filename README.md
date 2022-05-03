@@ -36,3 +36,5 @@ Anyway, since I have this set up now, I might try to log my progress here.
 4.26.22 Continued working on While Loops, did 99 Bottles of Juice & Countdown Liftoff Quiz.
 
 4.28.22 Began working on For Loops, Increment and Decrement as well as Nested Loops. Worked on all Loop Quizes, got one of them right the first time I submitted my code :D. Started on Functions. Need to practice calling functions + strings a number of times.
+
+5.2.22 Testing config.
