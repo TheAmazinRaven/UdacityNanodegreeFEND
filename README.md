@@ -29,7 +29,7 @@ Anyway, since I have this set up now, I might try to log my progress here.
 
 4.25.22.2 Testing config. Again.
 
-4.25.22.3 Worked on Ternary Operators & Switch Statements. Finished Lesson 3. Setup files/environment for Lesson 4.\
+4.25.22.3 Worked on Ternary Operators & Switch Statements. Finished Lesson 3. Setup files/environment for Lesson 4.
 
 4.26.22 Worked on While Loops & JuliaJames quiz.
 
@@ -38,3 +38,5 @@ Anyway, since I have this set up now, I might try to log my progress here.
 4.28.22 Began working on For Loops, Increment and Decrement as well as Nested Loops. Worked on all Loop Quizes, got one of them right the first time I submitted my code :D. Started on Functions. Need to practice calling functions + strings a number of times.
 
 5.2.22 Testing config again.
+
+5.3.22 Still struggling with functions. :(
