@@ -40,3 +40,5 @@ Anyway, since I have this set up now, I might try to log my progress here.
 5.2.22 Testing config again.
 
 5.3.22 Still struggling with functions. :(
+
+5.5.22 Continuing with funtions.
