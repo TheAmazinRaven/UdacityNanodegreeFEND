@@ -1,1 +1,15 @@
-/*text*/
+* {
+    font-family: 'VT323', monospace;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #d6a5f3;
+    
+}
+
+.container {
+    background-color: #ffffff;
+    
+    width: 80%;
+}
